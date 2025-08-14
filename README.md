@@ -1,17 +1,17 @@
 # Welcome to your Expo app 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7c1d508-c828-4529-8143-1e87fde40778" alt="Home Page" width="45%" />
-  <img src="https://github.com/user-attachments/assets/ecf2e8c6-b4fd-4804-b538-4e2e2c1722b4" alt="History log" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d7c1d508-c828-4529-8143-1e87fde40778" alt="Home Page" width="30%" />
+  <img src="https://github.com/user-attachments/assets/ecf2e8c6-b4fd-4804-b538-4e2e2c1722b4" alt="History log" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99592bcf-aaf3-4ae9-a740-34a7abe01073" alt="New Medication" width="45%" />
-  <img src="https://github.com/user-attachments/assets/d2521c17-f6ce-48c7-a9cf-3240bebd2979" alt="New Medication2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/99592bcf-aaf3-4ae9-a740-34a7abe01073" alt="New Medication" width="30%" />
+  <img src="https://github.com/user-attachments/assets/d2521c17-f6ce-48c7-a9cf-3240bebd2979" alt="New Medication2" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eb1652bc-fe31-41d1-a730-dcb6371f8265" alt="History log 2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/eb1652bc-fe31-41d1-a730-dcb6371f8265" alt="History log 2" width="30%" />
 </p>
 
 
